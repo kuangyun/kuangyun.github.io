@@ -1,6 +1,6 @@
 {
   "name": "Kuangyun.GitHub.io",
   "tagline": "the first teachnical blog",
-  "body": "# kuangyun.github.io\r\ntechnical blog\r\n[baidu.com](http://baidu.com)\r\n[github][1]\r\n# Today it's new begining.\r\n",
+  "body": "# kuangyun.github.io\r\ntechnical blog\r\n[baidu.com](http://baidu.com)\r\n[github][1]\r\n# Today it's new begining.\r\n\r\nmy second blog\r\n[second](http://kuangyun.github.io/blob/master/第二篇博客.html)\r\n[[my internal link|第二篇博客.html]] \r\n\r\n\r\n\r\n[second blog](blob/master/第二篇博客.html)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
